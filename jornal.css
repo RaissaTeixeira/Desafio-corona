@@ -1,0 +1,80 @@
+.texto {
+	text-align: center;
+	margin: 100px;
+	margin-top: -105px;
+	font-size: 15pt;
+}
+
+.principal {
+	text-align: center;
+	padding: 120px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+header {
+	background: #00BFFF;
+	padding: 30px;
+	height: 200px;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -8px;
+}
+
+.titulo-principal {
+	text-align: center;
+	margin-top: 258px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 10px;
+}
+
+nav li {
+	display: inline;
+	margin: 0, 0, 0, 15px;
+	padding: 10px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: red;
+}
+
+#logo-corona {
+	position: absolute;
+	top: 10px;
+	margin-left: 300px;
+}
+
+#coronavirus {
+	position: absolute;
+	margin-left: 200px;
+	width: 70px;
+}
+
+footer {
+	text-align: center;
+    background: #00BFFF;
+    padding: 40px 0;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
